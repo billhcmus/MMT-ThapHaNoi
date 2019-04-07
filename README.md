@@ -1,2 +1,3 @@
-# MMT-ThapHaNoi
-Trò chơi tháp Hà Nội - Môn mạng máy tính
+# Tower of HaNoi
+
+Basic Networking
